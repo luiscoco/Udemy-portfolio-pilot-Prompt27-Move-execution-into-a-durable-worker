@@ -1,4 +1,4 @@
-# PortfolioPilot — Activity 27: Move execution into a durable worker
+# Move execution into a durable worker
 
 PortfolioPilot is a teaching project for a stock portfolio manager with portfolio-aware chat,
 news, watchlists, and alerts. This activity changes **where chat runs**: the API saves a job in
